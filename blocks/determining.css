@@ -1,0 +1,8 @@
+.b-determining__term {
+	font-weight:bold;
+	line-height: 2.5;
+}
+.b-determining__list{
+	list-style: circle;
+	margin: 0 0 0 -20px;
+}
